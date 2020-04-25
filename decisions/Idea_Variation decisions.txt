@@ -11,6 +11,7 @@ country_decisions = {
 			has_idea = foreign_embassies_2
 			is_vassal = no
 		}
+
 		allow = {
 			has_consort_regency = no	# to avoid problems with the wrong dynasty
 			
@@ -40,8 +41,8 @@ country_decisions = {
 			legitimacy = 85
 			years_of_income = 0.8 
 			#NOT = { has_country_modifier = dynastic_involvement }
-
 		}
+
 		effect = {
 			random_country = {
 				limit = {

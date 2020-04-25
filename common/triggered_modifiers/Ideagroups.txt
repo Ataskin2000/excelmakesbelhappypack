@@ -14,7 +14,7 @@ dynastic_bonus = {
 		has_idea_group = dynasty0
 	}
 	trigger = {
-		has_idea = diplomatic_corps_2
+		has_idea = foreign_embassies_2
 		has_reform = elective_monarchy
 	}
 	monarch_diplomatic_power = 1
@@ -40,8 +40,7 @@ dynastic_bonus_2 = {
 		has_idea = militarismus5
 		has_reform = elective_monarchy
 	}
-	monarch_military_power = 1
-	
+	monarch_military_power = 1	
 }
  
 
@@ -1121,8 +1120,8 @@ quantity_forcelimit_1 = {
 		has_idea = mass_army
 		current_age = age_of_reformation
 	}
-	naval_forcelimit = 40
-	land_forcelimit = 40
+	naval_forcelimit = 20
+	land_forcelimit = 20
 }
 
 quantity_forcelimit_2 = {
@@ -1134,8 +1133,8 @@ quantity_forcelimit_2 = {
 		has_idea = mass_army
 		current_age = age_of_absolutism
 	}
-	naval_forcelimit = 60
-	land_forcelimit = 60
+	naval_forcelimit = 20
+	land_forcelimit = 20
 }
 
 quantity_forcelimit_3 = {
@@ -1147,8 +1146,8 @@ quantity_forcelimit_3 = {
 		has_idea = mass_army
 		current_age = age_of_revolutions
 	}
-	naval_forcelimit = 80
-	land_forcelimit = 80
+	naval_forcelimit = 20
+	land_forcelimit = 20
 }
 
 full_merc_1 = {

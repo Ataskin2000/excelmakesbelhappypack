@@ -1,4 +1,4 @@
-name="excelmakesbelhappypack_BelusterkChanges"
+name="excelmakesbelhappypack"
 replace_path="gfx/loadingscreens"
 tags={
 	"Historical"
@@ -8,4 +8,4 @@ tags={
 	"New Nations"
 }
 supported_version="1.29.*.*"
-path="/mod/excelmakesbelhappypack_BelusterkChanges"
+path="/mod/excelmakesbelhappypack"
